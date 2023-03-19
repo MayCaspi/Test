@@ -1,4 +1,4 @@
-import java.util.ArrayList;//
+import java.util.ArrayList;//no
 
 public class ThreadCheckArray implements Runnable 
 {
